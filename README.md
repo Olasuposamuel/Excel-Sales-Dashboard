@@ -23,3 +23,7 @@ To analyze the sales performance for Online Store to uncover key business insigh
 - Built KPIs such as Total Sales and Total Order ID 
 - Designed an interactive dashboard for visualization
 
+## Dashboard
+<img width="1511" height="637" alt="Screenshot Online Store Dashboard" src="https://github.com/user-attachments/assets/a1c60904-4d99-4de5-a24d-37440f65f45b" />
+
+
