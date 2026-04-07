@@ -21,8 +21,7 @@ To analyze the sales performance for Online Store to uncover key business insigh
 - Removed duplicates and handled missing values
 - Created pivot tables for the questions asked.
 - Built KPIs such as Total Sales and Total Order ID 
-- Designed an interactive dasWomen were the primary customers, contributing 64.05% of total purchases.
-They also accounted for 69.42% of total orders, showing higher engagement and purchase frequency.hboard for visualization
+- Designed an interactive dashboard for visualization
 
 ## Dashboard
 <img width="1511" height="637" alt="Screenshot Online Store Dashboard" src="https://github.com/user-attachments/assets/a1c60904-4d99-4de5-a24d-37440f65f45b" />
