@@ -19,8 +19,8 @@ To analyze the sales performance for Online Store to uncover key business insigh
 ## Process
 - Cleaned and organized raw data
 - Removed duplicates and handled missing values
+- Built KPIs such as Total Sales and Total Order ID
 - Created pivot tables for the questions asked.
-- Built KPIs such as Total Sales and Total Order ID 
 - Designed an interactive dashboard for visualization
 
 ## Dashboard
