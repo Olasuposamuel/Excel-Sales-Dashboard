@@ -14,3 +14,4 @@ To analyze the sales performance for Online Store to uncover key business insigh
 - Relation between age and gender based on number of orders.
 - Highest selling category.
  
+- Dashboard Interaction <a href="https://github.com/Olasuposamuel/Excel-Sales-Dashboard/blob/main/Screenshot%20Online%20Store%20Dashboard.png"> view Dashboard</a>
