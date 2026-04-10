@@ -38,7 +38,7 @@ To analyze the sales performance for Online Store to uncover key business insigh
   ## Recommendation
 - March is a high-sales month – we should analyze what’s driving this trend and capitalize on it with targeted promotions.
 - Women are the dominant buyers – marketing efforts should focus on this demographic to maximize engagement, It would be beneficial to focus more on marketing strategies targeting women of the 30-49 age group
-- Top 5 states account for 75.85% of sales – optimizing inventory and running localized campaigns in these regions could enhance sales.
+- Top 5 states account for 52.57% of sales – optimizing inventory and running localized campaigns in these regions could enhance sales.
 - Amazon, Myntra, and Flipkart contribute the most – strengthening engagements, and ad strategies on these platforms could drive further growth.
 - The "Set" category is the best seller – expanding this category with new offerings could further capitalize on its strong sales performance.
 
