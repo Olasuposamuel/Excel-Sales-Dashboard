@@ -93,7 +93,8 @@ Implementing these insights can:
 ---
 
 ## 🖼 Dashboard Preview
-<img width="942" height="652" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/3de6268d-2092-48f4-b8ab-bcf4d9721fdc" />
+<img width="938" height="648" alt="Screenshot Sales Performance Dashboard" src="https://github.com/user-attachments/assets/4ed608af-3a43-4432-8560-b6e2564ae255" />
+
 
 
 ---
