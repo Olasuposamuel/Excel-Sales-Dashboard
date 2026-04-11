@@ -93,7 +93,8 @@ Implementing these insights can:
 ---
 
 ## 🖼 Dashboard Preview
-<img width="1511" height="637" alt="Screenshot Online Store Dashboard" src="https://github.com/user-attachments/assets/4e260c3b-605f-4cf7-93ae-c4f5f2152285" />
+<img width="942" height="652" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/3de6268d-2092-48f4-b8ab-bcf4d9721fdc" />
+
 
 ---
 
