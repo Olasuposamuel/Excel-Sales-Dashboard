@@ -1,4 +1,4 @@
-# 📊 E-commerce Sales Performance Analysis (Excel Dashboard)
+# 📊 Sales Performance Analysis (Excel Dashboard)
 
 ## 📌 Project Overview
 This project analyzes an e-commerce sales dataset to identify **high value customer segments, top performing sales channels, and revenue driving products**.  
